@@ -48,10 +48,6 @@ public class ProductController {
 	}
 		
 }
-
-	
-	// To delete  a Product 
-	// To Modify a Product 
 	
 	
 
